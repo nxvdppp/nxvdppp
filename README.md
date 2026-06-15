@@ -5,7 +5,7 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Initializing+Neural+Link...;Backend+Architect+%7C+AI+Integrator;C%23+Memory+Manipulator;Designing+Bento-Grid+Masterpieces;Compiling+Code...+Done." alt="Typing SVG" /></a>
 
 <p align="center">
-  I build high-performance infrastructure, ignite local AI models, and manipulate system memory. Whether I'm optimizing self-learning algorithms for low-end hardware or designing modern glassmorphism UI/UX, I am building the future.
+  I build high-performance c# Apps ,Python applications ,Bulding local AI models.
 </p>
 
 <!-- Social Links / Pings -->
@@ -22,7 +22,7 @@
 
 </div>
 
-## 🧰 COMPREHENSIVE TECH STACK
+## 🧰 TECH STACK
 
 <details open>
   <summary><b>💻 Core Languages & Backend</b></summary>
